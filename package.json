@@ -1,0 +1,13 @@
+{
+	"name":"Boutique",
+	"version":"1.0.0",
+	"description":"A simple eshop template.",
+	"url":"gilacms.com",
+	"options": {
+		"theme-color":{
+		},
+		"featured-product-category":{
+			"placeholder":"Category ID"
+		}
+	}
+}
