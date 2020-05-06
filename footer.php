@@ -2,7 +2,7 @@
 </div>
 
 <div id="foot">
-	<?=view::widget_area('foot')?>
+	<?=View::widget_area('foot')?>
 	<p style="grid-column:1/-1">© 2018 My Boutique Powered by <a href="https://gilacms.com">Gila CMS</a></p>
 </div>
 
